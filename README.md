@@ -18,4 +18,5 @@
 * Inverse power method
 * Power method
 * Orthogonalization of vectors
-* QR Decomposition
+* Gram-Schmidt processing
+* QR decomposition
