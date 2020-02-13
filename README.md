@@ -1,5 +1,7 @@
 # Numerical Analysis
 
+Some basic numerical algos are provided.
+
 ## Extract Root
 * Genetic method 
 * Bisection method
