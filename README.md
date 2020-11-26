@@ -22,3 +22,5 @@ Some basic numerical algorithms are provided. Enjoy!
 * Orthogonalization of vectors
 * Gram-Schmidt processing
 * QR decomposition
+
+(updating...)
