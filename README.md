@@ -1,6 +1,6 @@
 # Numerical Analysis
 
-Some basic numerical algos are provided.
+Some basic numerical algorithms are provided. Enjoy!
 
 ## Extract Root
 * Genetic method 
